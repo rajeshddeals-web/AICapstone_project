@@ -1,0 +1,8 @@
+streamlit==1.25.0
+google-generativeai==0.1.0
+python-dotenv==1.0.0
+langchain==0.0.340
+PyPDF2==3.0.1
+chromadb==0.3.26
+gtts==2.3.2
+Pillow
